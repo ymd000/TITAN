@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# uv
+.venv/
+uv.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / Model weights
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+
+# OS
+.DS_Store
