@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: titan
+Version: 0.1.0
+Summary: TITAN
+Home-page: https://github.com/mahmoodlab/TITAN
+Author: TD,SJW,AHS,RJC
+Author-email: 
+License: CC-BY-NC-ND 4.0
+Requires-Python: >=3.10
+Requires-Dist: torch==2.0.1
+Requires-Dist: torchvision==0.15.2
+Requires-Dist: timm==1.0.3
+Requires-Dist: einops==0.6.1
+Requires-Dist: einops-exts==0.0.4
+Requires-Dist: tqdm==4.66.6
+Requires-Dist: h5py==3.8.0
+Requires-Dist: transformers==4.46.0
+Requires-Dist: pandas==2.2.3
+Requires-Dist: scikit-learn==1.5.2
+Dynamic: author
+Dynamic: home-page
