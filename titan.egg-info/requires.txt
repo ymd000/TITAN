@@ -8,3 +8,4 @@ h5py==3.8.0
 transformers==4.46.0
 pandas==2.2.3
 scikit-learn==1.5.2
+notebook>=7.5.5
